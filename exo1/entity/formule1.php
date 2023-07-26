@@ -32,7 +32,7 @@ class Formule1
 
     public function shitfGear($sift) 
     {
-        $this->speed = $sift;
+        $this->speed = $sift ;
     }
 
     
